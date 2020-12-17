@@ -43,8 +43,8 @@ body{
     height: calc( 9/16 * 90vmin );
     flex-shrink: 0;
     border: 1px solid transparent;
-    border-top-color: var(--couleur-elements);
-    border-bottom-color: var(--couleur-elements);
+    border-top-color: #fff0;
+    border-bottom-color: #fff0;
     position: relative;
     transform-origin: center;
     max-height: 90vh;
