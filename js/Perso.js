@@ -8,7 +8,7 @@ class Perso extends ElementHtml{
             ,"PoYo ?"
             ,"..."
             ,"Oyop"
-            ,"PoyooooooOOOOOO ?"
+            ,"PoyooooOOO ?"
             ,"Mhmm poyo"
             ,"Kouisine"
             ,"POYOOOO"
